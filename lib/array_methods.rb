@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort #sorts array into alphabetical (strings) order or smallest to largest (integers)
+  array.sort #sorts array into alphabetical order (strings) or smallest to largest (integers)
 end
 
 def using_reverse(array)
